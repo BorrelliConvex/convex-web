@@ -36,3 +36,11 @@ Convex supports an advanced model of digital currencies with customisable govern
 With incredible performance, low costs and low latency, Convex digital currencies are ideal for consumer use cases such as digital payments, international transfers and retail purchases.
 
 If you are involved in a project to create a digital currency, we can help you succeed: get in touch at info@convex.world.
+
+## Distributed Ledger Technology (DLT) Market Infrastructures (and Operators)
+
+Convex supports a distributed ledger technology (DLT) solution to facilitate post‐trade activities in financial services. This solution is suitable for entities that qualify as a DLT market infrastructure or an operator of a DLT market infrastructure.
+
+Convex providea the platform required for new types of market infrastructures dedicated to the trading and/or settlement of in-scope cryptoassets. 
+
+If you are involved in busines activities that meet the definition of a DLT market infrastructure, we can help you succeed: get in touch at info@convex.world.
